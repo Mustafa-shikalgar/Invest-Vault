@@ -152,25 +152,25 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 ## Dashboard
 
-> Add dashboard screenshot here.
+
 
 ---
 
 ## Portfolio
 
-> Add portfolio screenshot here.
+
 
 ---
 
 ## Analytics
 
-> Add analytics screenshot here.
+
 
 ---
 
 ## Authentication
 
-> Add login/signup screenshot here.
+
 
 ---
 
@@ -300,24 +300,6 @@ npm run lint
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-## Mustafa Shikalgar
-
-Computer Engineering Student
-
-GitHub
-
-https://github.com/Mustafa-shikalgar
-
----
-
 # ⭐ Show your Support
 
 If you found this project useful,
@@ -328,10 +310,3 @@ It motivates future development.
 
 ---
 
-<div align="center">
-
-### 💙 Thanks for visiting!
-
-Made with ❤️ by **Mustafa Shikalgar**
-
-</div>

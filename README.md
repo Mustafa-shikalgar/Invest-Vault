@@ -4,17 +4,6 @@
 
 <h1>💰 Invest Vault</h1>
 
-<p>
-A modern investment tracking and portfolio management platform built with
-<b>React</b>, <b>Vite</b>, <b>Tailwind CSS</b>, and <b>Supabase</b>.
-</p>
-
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite" />
-<img src="https://img.shields.io/badge/TailwindCSS-4-38BDF8?style=for-the-badge&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase" />
-
-</div>
 
 ---
 
